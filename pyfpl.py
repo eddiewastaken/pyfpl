@@ -1,4 +1,4 @@
-from urls import *
+from .urls import *
 
 import requests
 

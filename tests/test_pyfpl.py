@@ -1,7 +1,7 @@
 import unittest
 import requests.exceptions
 
-from pyfpl import PyFPL
+from ..pyfpl import PyFPL
 
 
 class PyFPLTests(unittest.TestCase):

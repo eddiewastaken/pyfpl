@@ -1,5 +1,5 @@
 import unittest
-from urls import GameUrls, ManagerUrls, LeagueUrls
+from ..urls import GameUrls, ManagerUrls, LeagueUrls
 
 
 class GameUrlsTests(unittest.TestCase):
